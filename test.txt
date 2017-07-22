@@ -7,3 +7,4 @@
  hello fedora 4
  hello windows 4
  hello windows 5
+ hello windows 6
