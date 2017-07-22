@@ -8,4 +8,5 @@
  hello windows 4
  hello fedora 5
  hello windows 5
+ hello fedora 6
  hello windows 6
