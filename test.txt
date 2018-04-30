@@ -11,4 +11,3 @@
  hello fedora 6
  hello windows 6
  hello win10
- hello win10
